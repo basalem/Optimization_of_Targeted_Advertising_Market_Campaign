@@ -1,5 +1,5 @@
 
-# Optimization of Targeted Advertising Market Camping  
+# Optimization of Targeted Advertising Market Campaign  
 Author: Mohammed Ba Salem 
 
 Contact: basaleemm@gmail.com
